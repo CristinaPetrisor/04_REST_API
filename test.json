@@ -1,0 +1,9 @@
+{ 
+     "message": "Datei erfolgreich aktualisiert", 
+
+    "data": {
+    "name": "Maxine",
+    "age": 29,
+    "occupation": "CIO"
+    }
+}
